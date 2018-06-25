@@ -1,2 +1,2 @@
 # testgit
-learn git
+learn git-flow from here https://jeffkreeftmeijer.com/git-flow/
